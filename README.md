@@ -1,2 +1,2 @@
 # torneo
-Torneo de Esports
+Torneo de E-sports
